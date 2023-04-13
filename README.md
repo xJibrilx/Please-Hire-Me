@@ -1,2 +1,2 @@
 # Please-Hire-Me
-From beginner to experience to dump your repo's to get you HIRED
+From beginner to experience a place to dump your repo's to get you HIRED
