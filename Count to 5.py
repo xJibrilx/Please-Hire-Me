@@ -10,3 +10,6 @@ i = 1
 while i < 6:
     print(i)
     i += 1
+x = "Are you "
+y = "not entertained?"
+print (x, y)
