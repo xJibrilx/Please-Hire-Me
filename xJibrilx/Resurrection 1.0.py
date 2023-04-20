@@ -9,6 +9,11 @@ def value():
 while i != 1: # dice roll of the code
     for x in itertools.count():  # the counter function +1 increment
         print(value())
-        if (value()) >= 1: # important to note when dealing with decimals to use or equals
-            print(resurrection())
         print(x)
+        if (value()) >= 1:# important to note when dealing with decimals to use or equals
+            (resurrection())
+            break
+    else:
+        continue
+    break
+# How long before Jesus resurrects
