@@ -14,6 +14,6 @@ while i != 1: # dice roll of the code
             (resurrection())
             break
     else:
-        continue
-    break
+        continue # only executed if the inner loop did NOT break
+    break # only executed if the inner loop DID break
 # How long before Jesus resurrects
